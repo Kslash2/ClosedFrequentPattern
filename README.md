@@ -3,7 +3,7 @@ Data Mining Project for an University Exam
 
 This Project is made for learning Object Oriented paradigm, and ofc learning Java programming Language. 
 It has a client and a Server (with MultiThreading).
-Client is an applet (yeah I know Obsolete), using Swing.
+Client is an applet (yeah I know Obsolete), with GUI using Swing, it communicate via socket ofc.
 You can choose to read from file (Serialization), or just calculate patterns (Server Side).
 Using MySQL and XAMPP.
  
